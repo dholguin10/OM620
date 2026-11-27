@@ -38,7 +38,7 @@ This README walks through every step, from opening the files to getting the fina
 2. Unzip the download.
 3. Open the **data** folder and unzip **transaction_data.csv.zip**. The data file was too big to upload to GitHub without zipping it.
 
-![Screenshot: the project folders after unzipping](images/step1-folders.png)
+![Screenshot: the project folders after unzipping](images/Step1-folders.png)
 
 ## Step 2: Open the Notebook in VS Code
 
@@ -122,7 +122,7 @@ Each factory code starts with a country code, for example US-1F or JP-C7. We use
 - JP = Japan
 - Anything else = Unknown
 
-![Screenshot: the new country column](images/step7-country.png)
+![Screenshot: the new country column](images/step7-county.png)
 
 ## Step 8: Keep Only the Products We Need
 
